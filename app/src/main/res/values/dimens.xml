@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heightFontSize">36sp</dimen>
+    <dimen name="spiner_width">100dp</dimen>
+    <dimen name="spiner_height">48dp</dimen>
+    <dimen name="seekBar_Height">24dp</dimen>
+</resources>
